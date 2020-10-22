@@ -1,0 +1,13 @@
+/* Post single customisations
+-------------------------------------------------- */
+
+.post-content figure {
+    width: fit-content;
+}
+
+.post-content figcaption p {
+    font-size: 14px;
+    text-align: center;
+    color: var(--secondary);
+}
+
