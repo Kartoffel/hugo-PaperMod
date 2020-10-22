@@ -11,3 +11,10 @@
     color: var(--secondary);
 }
 
+/* .entry-cover video {*/
+figure video {
+    border-radius: var(--radius);
+    pointer-events: none;
+    width: 100%;
+}
+
