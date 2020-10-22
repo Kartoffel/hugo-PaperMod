@@ -18,3 +18,10 @@ figure video {
     width: 100%;
 }
 
+.social-icons a svg {
+    margin-bottom: -2px;
+}
+
+.social-icons p {
+    margin-bottom: 14px;
+}
