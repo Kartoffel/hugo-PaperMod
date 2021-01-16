@@ -1,0 +1,23 @@
+/* Post single customisations
+-------------------------------------------------- */
+
+.post-content figure {
+    width: fit-content;
+}
+
+.post-content figure > figcaption {
+    margin-top: 0;
+}
+
+.post-content figure > figcaption p {
+    font-size: 14px;
+    text-align: center;
+    color: var(--secondary);
+    font-weight: normal;
+}
+
+figure video {
+    border-radius: var(--radius);
+    pointer-events: none;
+    width: 100%;
+}
